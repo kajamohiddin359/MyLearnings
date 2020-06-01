@@ -1,0 +1,7 @@
+Started by user [8mha:////4I2b/kARJV8m02t0cI+nZaZLqgEXS1e0vGDRz3Uz/dbaAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mjenkins_admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/My_First_Maven_Build
+Parsing POMs
+ERROR: No such file /var/jenkins_home/workspace/My_First_Maven_Build/pom.xml
+Perhaps you need to specify the correct POM file path in the project configuration?
+Finished: FAILURE

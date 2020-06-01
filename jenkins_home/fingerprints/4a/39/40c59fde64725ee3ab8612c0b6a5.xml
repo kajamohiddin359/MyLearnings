@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-06-01 00:59:30.716 UTC</timestamp>
+  <original>
+    <name>My_First_Maven_Build/com.ericsson.se:second-maven-project</name>
+    <number>2</number>
+  </original>
+  <md5sum>4a3940c59fde64725ee3ab8612c0b6a5</md5sum>
+  <fileName>com.ericsson.se:second-maven-project:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>My_First_Maven_Build/com.ericsson.se:second-maven-project</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>My_First_Maven_Build</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
